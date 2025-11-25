@@ -1,3 +1,4 @@
+License: MIT
 # EasySQL
 
 EasySQL is a lightweight and user-friendly PHP database wrapper that simplifies MySQL database operations. It provides an intuitive interface for common database tasks like inserting, fetching, updating, and deleting records with prepared statements for security.
