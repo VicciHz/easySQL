@@ -149,4 +149,3 @@ We take security seriously. If you discover any security vulnerabilities, please
 
 - Special thanks to all contributors who help maintain and improve EasySQL
 - Built with PHP and MySQL
-## Test
